@@ -85,12 +85,7 @@ Related:
 
 A curated list of open-source resources and tools for pilot training and aviation enthusiasts. These resources cover various aspects of aviation, including flight simulators, navigation tools, and aircraft design analysis.
 
-## Table of Contents
 
-- [Flight Simulators](#flight-simulators)
-- [Navigation and Flight Planning](#navigation-and-flight-planning)
-- [Aircraft Design and Analysis](#aircraft-design-and-analysis)
-- [Aviation Data Conversion](#aviation-data-conversion)
 
 ## Flight Simulators
 
