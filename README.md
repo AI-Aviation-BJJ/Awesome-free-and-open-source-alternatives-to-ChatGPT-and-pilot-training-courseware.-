@@ -86,7 +86,7 @@ Related:
 A curated list of open-source resources and tools for pilot training and aviation enthusiasts. These resources cover various aspects of aviation, including flight simulators, navigation tools, and aircraft design analysis.
 
 
-1. **[FlightGear](https://github.com/FlightGear/flightgear)
+##[FlightGear](https://github.com/FlightGear/flightgear)
 
 A sophisticated and open-source flight simulator for desktop systems, featuring realistic physics and a large library of aircraft. [Website]
 
