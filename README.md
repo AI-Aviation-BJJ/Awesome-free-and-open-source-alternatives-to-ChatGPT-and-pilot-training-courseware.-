@@ -86,16 +86,15 @@ Related:
 A curated list of open-source resources and tools for pilot training and aviation enthusiasts. These resources cover various aspects of aviation, including flight simulators, navigation tools, and aircraft design analysis.
 
 
+1. **[FlightGear](https://github.com/FlightGear/flightgear)
 
-## Flight Simulators
-
-1. **FlightGear**: A sophisticated and open-source flight simulator for desktop systems, featuring realistic physics and a large library of aircraft. [Website](https://www.flightgear.org/) | [GitHub](https://github.com/FlightGear/flightgear)
+A sophisticated and open-source flight simulator for desktop systems, featuring realistic physics and a large library of aircraft. [Website]
 
 ## Navigation and Flight Planning
 
 1. **AeroNavMap**: An open-source aviation navigation app that offers flight planning, charts, and weather information. [GitHub](https://github.com/ukabu/AeroNavMap)
 
-## Aircraft Design and Analysis
+## Aircraft Design
 
 1. **OpenAeroStruct**: An open-source tool for analyzing and optimizing aircraft structures and aerodynamics, developed by the Stanford University Aerospace Design Lab. [GitHub](https://github.com/mdolab/OpenAeroStruct)
 
