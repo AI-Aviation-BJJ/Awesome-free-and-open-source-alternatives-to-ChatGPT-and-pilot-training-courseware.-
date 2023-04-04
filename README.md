@@ -8,16 +8,16 @@
 
 # ChatGPT open-source alternatives!
 
-## [lucidrains/PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch)
+## [Lucidrains/PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch)
 
 Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM
 
 
-## [togethercomputer/OpenChatKit](https://github.com/togethercomputer/OpenChatKit)
+## [TogetherComputer/OpenChatKit](https://github.com/togethercomputer/OpenChatKit)
 
 OpenChatKit provides a powerful, open-source base to create both specialized and general purpose chatbots for various applications. 
 
-## [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)
+## [Oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)
 
 A gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, LLaMA, and Pygmalion.
 
@@ -31,14 +31,14 @@ This is a browser-based front-end for AI-assisted writing with multiple local & 
 OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 
 
-## [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca)
+## [Tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca)
 
 This is the repo for the Stanford Alpaca project, which aims to build and share an instruction-following LLaMA model.
 
-### Other LLaMA-derived projects:
+###  LLaMA-derived projects:
 
-- [pointnetwork/point-alpaca](https://github.com/pointnetwork/point-alpaca) Released weights recreated from Stanford Alpaca, an experiment in fine-tuning LLaMA on a synthetic instruction dataset.
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) Demo, data and code to train an assistant-style large language model with ~800k GPT-3.5-Turbo Generations based on LLaMA.
+- [Pointnetwork/point-alpaca](https://github.com/pointnetwork/point-alpaca) Released weights recreated from Stanford Alpaca, an experiment in fine-tuning LLaMA on a synthetic instruction dataset.
+- [Nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) Demo, data and code to train an assistant-style large language model with ~800k GPT-3.5-Turbo Generations based on LLaMA.
 
 ## [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV)
 
@@ -54,25 +54,24 @@ Related:
 - Slim version (remove 20K image tokens to reduce memory usage): [silver/chatglm-6b-slim](https://huggingface.co/silver/chatglm-6b-slim)
 
 
-## [carperai/trlx](https://github.com/carperai/trlx)
+## [Carperai/trlx](https://github.com/carperai/trlx)
 
  A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF), supporting online RL up to 20b params and offline RL to larger models. Basically what you would use to finetune GPT into ChatGPT. 
 
-## [databrickslabs/dolly](https://github.com/databrickslabs/dolly)
+## [Databrickslabs/dolly](https://github.com/databrickslabs/dolly)
 
 Script to fine tune [GPT-J 6B](https://huggingface.co/EleutherAI/gpt-j-6B) model on the [Alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) dataset. Insightful if you want to fine tune LLMs.
 
-## [ethanyanjiali/minChatGPT](https://github.com/ethanyanjiali/minChatGPT)
+## [Ethanyanjiali/minChatGPT](https://github.com/ethanyanjiali/minChatGPT)
 
 A minimum example of aligning language models with RLHF similar to ChatGPT
 
-Related:
-- [huggingface.co/ethanyanjiali/minChatGPT](https://huggingface.co/ethanyanjiali/minChatGPT)
+Also:
+- [Huggingface.co/ethanyanjiali/minChatGPT](https://huggingface.co/ethanyanjiali/minChatGPT)
 
+## [Cerebras/Cerebras-GPT](https://huggingface.co/cerebras/Cerebras-GPT-6.7B)
 
-## [cerebras/Cerebras-GPT](https://huggingface.co/cerebras/Cerebras-GPT-6.7B)
-
-7 open source GPT-3 style models with parameter ranges from 111 million to 13 billion, trained using the [Chinchilla](https://arxiv.org/abs/2203.15556) formula. 
+Sev3n open source GPT-3 style models with parameter ranges from 111 million to 13 billion, trained using the [Chinchilla](https://arxiv.org/abs/2203.15556) formula. 
 
 
 
