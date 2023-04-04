@@ -90,17 +90,18 @@ A curated list of open-source resources and tools for pilot training and aviatio
 
 A sophisticated and open-source flight simulator for desktop systems, featuring realistic physics and a large library of aircraft. [Website]
 
-## Navigation and Flight Planning
+## [AeroNavMap](https://github.com/ukabu/AeroNavMap)
 
-1. **AeroNavMap**: An open-source aviation navigation app that offers flight planning, charts, and weather information. [GitHub](https://github.com/ukabu/AeroNavMap)
+An open-source aviation navigation app that offers flight planning, charts, and weather information.
 
-## Aircraft Design
+## [OpenAeroStruct](https://github.com/mdolab/OpenAeroStruct)
 
-1. **OpenAeroStruct**: An open-source tool for analyzing and optimizing aircraft structures and aerodynamics, developed by the Stanford University Aerospace Design Lab. [GitHub](https://github.com/mdolab/OpenAeroStruct)
+An open-source tool for analyzing and optimizing aircraft structures and aerodynamics, developed by the Stanford University Aerospace Design Lab.
 
-## Aviation Data Conversion
 
-1. **AirspaceConverter**: A utility for converting airspace and waypoint data between different formats used in aviation. [GitHub](https://github.com/alus-it/AirspaceConverter)
+## [AirspaceConverter](https://github.com/alus-it/AirspaceConverter)
+
+A utility for converting airspace and waypoint data between different formats used in aviation.
 
 
 
